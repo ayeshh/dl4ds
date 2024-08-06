@@ -33,7 +33,7 @@ Check out the API documentation [here](https://carlos-gg.github.io/dl4ds/).
 # Installation
 
 ```
-pip install dl4ds
+pip install dl4d
 ```
 
 # Example notebooks
